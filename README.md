@@ -1,1 +1,1 @@
-**strong** This file is mandatory in all Holberton School projects __Strong__
+**This file is mandatory in all Holbertonchool projects _**
