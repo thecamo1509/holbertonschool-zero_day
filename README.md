@@ -1,1 +1,1 @@
-**This file is mandatory in all Holbertonchool projects _**
+**This file is mandatory in all Holbertonchool projects **
